@@ -1,0 +1,60 @@
+body {
+   background: rgb(212,244,239); 
+   font-family:'Arial'; 
+}
+header {
+      text-align: center;
+      background: url("https://lh3.google.com/u/0/d/0B8-SQCs78LQ0amRTSXNrM1doS00=w1773-h829-iv1");
+      background-size: cover;
+      color:rgb(223, 249, 87);
+    }
+
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+	h2{
+		text-align: center; 
+	}
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px; 
+	  
+    }
+    ul {
+      padding: 10px;
+    
+    }
+  li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      color: rgb(240, 176, 176); 
+      background-color: grey; 
+    }
+    @media (max-width: 500px) {
+
+ 
+ h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: inline;
+      }
+      body{
+        text-align:center;
+        }
+        .picture{
+      margin: 10px 10px 0px 0px; 
+      border-radius: 20px;
+          }
