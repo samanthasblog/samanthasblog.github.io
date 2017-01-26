@@ -10,7 +10,7 @@ header {
     }
 
     a {
-      color: rgb:(223, 249, 87);
+      color: rgb(223, 249, 87);
     }
     h1 {
       font-size: 40px;
@@ -30,7 +30,7 @@ header {
   li {
       display: inline;
       padding: 0px 10px 0px 10px;
-	color: rgb:(240, 176, 176);
+	color: rgb(240, 176, 176);
       
     }
     article {
