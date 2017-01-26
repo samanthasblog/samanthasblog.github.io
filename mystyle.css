@@ -9,7 +9,8 @@ header {
 body {
   
    font-family:'Arial'; 
-	background-color: grey; 
+   background-color: grey; 
+   text-align: center; 
 }
 
 
@@ -56,9 +57,7 @@ body {
         display: inline;
 	Font-family: "Times New Roman",Georgia, Serif; 
       }
-      body{
-        text-align:center;
-        }
+      
         .picture{
       margin: 10px 10px 0px 0px; 
       border-radius: 20px;
