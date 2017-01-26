@@ -58,7 +58,9 @@ header {
         .picture{
       margin: 10px 10px 0px 0px; 
       border-radius: 20px;
+		background-color: grey;
           }
+	    
 	    img {
 	    text-align: center;
 	    }
