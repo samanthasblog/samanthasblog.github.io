@@ -18,6 +18,7 @@ body {
 
     a {
       color: rgb(240, 176, 176);
+      font-family:'Arial'; 
     }
     h1 {
       font-size: 40px;
