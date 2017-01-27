@@ -3,7 +3,7 @@ header {
       background: url("https://lh3.google.com/u/0/d/0B8-SQCs78LQ0amRTSXNrM1doS00=w1773-h829-iv1");
       background-size: cover;
       color:rgb(223, 249, 87);
-      position: top center; 
+     
        
     }
 
@@ -17,7 +17,7 @@ body {
 
 
     a {
-      color: rgb(223, 249, 87);
+      color: rgb(240, 176, 176);
     }
     h1 {
       font-size: 40px;
